@@ -8,7 +8,7 @@
 
 
 ## Usage
-![Usage](https://ibb.co/MkLFn7Qg)
+[![2025-07-06-215751.png](https://i.postimg.cc/W1j1Vq51/2025-07-06-215751.png)](https://postimg.cc/2VcDFyps)
 
 1. ***Clicking on the lable makes the entire tool more compact.***
 2. ***Here you can enter your command (for example `;kill others`).***
