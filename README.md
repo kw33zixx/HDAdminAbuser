@@ -18,4 +18,4 @@
 
  
  
-*made with 💘 by [@ex0rc1sta](t.me/ex0rc1sta)*
+*made with 💘 by [@ex0rc1sta](https://t.me/ex0rc1sta)*
