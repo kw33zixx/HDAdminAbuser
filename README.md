@@ -12,7 +12,7 @@
 
 1. ***Clicking on the lable makes the entire tool more compact.***
 2. ***Here you can enter your command (for example `;kill others`).***
-3. ***Delay for auto-executing (loop).***
+3. ***Delay (in ms) for auto-executing (loop).***
 4. ***Enable/disable auto-executing (loop).***
 5. ***Self-explanatory.***
 
