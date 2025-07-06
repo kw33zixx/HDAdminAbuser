@@ -6,6 +6,8 @@
 > 
 **This tool sends requests using bindable function named "RequestCommandSilent".**
 
+## Loadstring
+`loadstring(game:HttpGet('https://raw.githubusercontent.com/kw33zixx/HDAdminAbuser/refs/heads/main/main.lua'))()`
 
 ## Usage
 [![2025-07-06-215751.png](https://i.postimg.cc/W1j1Vq51/2025-07-06-215751.png)](https://postimg.cc/2VcDFyps)
